@@ -1,0 +1,14 @@
+[Remote 저장소에서 Local로 새로 받아오기]
+git clone 저장소_주소
+
+[Local에서 Remote로 저장]
+git add .
+git commit -m "메세지"
+git push
+
+[Local에서 Remote의 변경내역을 받아오기]
+git pull
+
+그 외의 쉘 커멘드
+cd 이동_디렉토리_이름
+cd ..
